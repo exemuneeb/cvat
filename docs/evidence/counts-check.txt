@@ -1,0 +1,5 @@
+task 1, images: 500
+COCO annotations: 3541
+expected CVAT shapes (polygon parts + RLE masks): 3953
+endpoint total: 3953
+per-class differences (endpoint, expected): none

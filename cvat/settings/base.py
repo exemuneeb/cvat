@@ -109,6 +109,7 @@ if not SECRET_KEY:
 
 DEFAULT_AUTO_FIELD = "django.db.models.AutoField"
 INSTALLED_APPS = [
+    "cvat.apps.test",
     "django.contrib.admin",
     "django.contrib.auth",
     "django.contrib.contenttypes",

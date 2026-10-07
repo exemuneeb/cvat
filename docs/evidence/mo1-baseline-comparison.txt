@@ -1,0 +1,10 @@
+baseline /api/tasks/1: 1.719794s
+class-counts:       1.951169s
+baseline /api/tasks/1: 1.847380s
+class-counts:       1.678852s
+baseline /api/tasks/1: 1.767910s
+class-counts:       2.048917s
+baseline /api/tasks/1: 1.898888s
+class-counts:       1.938002s
+baseline /api/tasks/1: 1.839307s
+class-counts:       1.867094s

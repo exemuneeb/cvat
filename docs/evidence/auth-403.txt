@@ -1,0 +1,14 @@
+HTTP/1.1 403 Forbidden
+Allow: GET, HEAD, OPTIONS
+Content-Length: 49
+Content-Type: application/vnd.cvat+json
+Cross-Origin-Opener-Policy: same-origin
+Date: Wed, 07 Oct 2026 08:37:39 GMT
+Referrer-Policy: strict-origin-when-cross-origin
+Server: nginx
+Vary: Accept, Origin, Cookie
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Request-Id: b1d0a90b-16f6-4370-90dc-158ef4a54fc8
+
+{"detail":"You do not have access to this task."}
