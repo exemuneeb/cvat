@@ -1,0 +1,2 @@
+HTTP 200
+{"task_id":1,"group_by":"label","total":3953,"counts":[{"label":"airplane","count":12},{"label":"apple","count":20},{"label":"backpack","count":51},{"label":"banana","count":39},{"label":"baseball bat","count":11},{"label":"baseball glove","count":10},{"label":"bear","count":4},{"label":"bed","count
